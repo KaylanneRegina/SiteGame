@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](img/foto.png)
 
-<h4 align="center"><a href="https://kayylanne.github.io/SiteGame/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://kaylanneregina.github.io/SiteGame/">Confira o projeto aqui</a></h4>
 
 ---
 
