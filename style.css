@@ -1,0 +1,113 @@
+/* Font List */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200;300&display=swap');
+
+body {
+    background-color: rgb(22, 43, 29);
+}
+.navbar-text {
+    font-family: monospace;
+}
+
+
+.home {
+    background-color: rgb(22, 43, 29);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.bg-custom {
+    background-color: rgb(22, 43, 29);
+}
+.custom-h1 {
+    font-family: 'Bungee Shade', cursive;
+    font-weight: 500;
+    color: #00d084;
+    font-size: 380%;
+    padding-top: 4rem;
+}
+
+.custom-p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 120%;
+    padding-bottom: 1rem;
+}
+
+.str-bs {
+    padding-top: 4rem;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+}
+.str-bs h2 {
+    font-size: 280%;
+}
+.home-el {
+    background-color: rgb(22, 25, 43);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.btn-primary {
+    color: rgb(22, 25, 43);
+    font-weight:bold;
+    background-color: #7BDCB5;
+    border-color: #7BDCB5;
+    
+}
+
+.btn-primary:hover{
+    background-color: bisque;
+}
+
+
+.about-section {
+    font-family: 'Bungee Shade', cursive;
+    color: #00d084;
+    background-color: rgb(22, 43, 29);
+    padding-top: 3rem;
+}
+.about-section h2 {
+    text-align: center;
+    font-size: 280%;
+}
+.abt-dtl {
+    padding-top: 4rem;
+}
+.pg-abt {
+    font-size: 140%;
+    font-family: 'Catamaran', sans-serif;
+    color: white;
+    padding-bottom: 6rem;
+}
+.set-img {
+    padding-bottom: 2rem;
+}
+
+.contact-pg {
+    font-family: 'Bungee Shade', cursive;
+    color: #00d084;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.contact-pg h2 {
+    font-size: 280%;
+}
+.lt-footer {
+    font-family: 'Bungee Shade', cursive;
+    color: #00d084;
+    padding-top: 2rem;
+    background-color: rgb(22, 43, 29);
+}
+
+.kay{
+    color: #00d084;
+}
+
+.kay:hover{
+    color: #7BDCB5
+}
+
+
